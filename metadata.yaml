@@ -1,0 +1,29 @@
+_repo: Janet-Hardy-in-Radio-City_33567
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wheeler, Ruthe S.
+    gutenberg_agent_id: '36477'
+    url: http://www.gutenberg.org/2009/agents/36477
+description: ''
+gutenberg_issued: '2010-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33567'
+  lccn: '39010530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rockefeller Center -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Radio plays -- Juvenile fiction'
+- !lcsh 'New York (N.Y.) -- Juvenile fiction'
+- !lcsh 'Women in radio broadcasting -- Juvenile fiction'
+- !lcc 'PZ'
+title: Janet Hardy in Radio City
+url: http://www.gutenberg.org/ebooks/33567
